@@ -1,0 +1,33 @@
+*{
+    font-family: 'Prompt', sans-serif;
+}
+h2{
+    color: #2290da;
+}
+input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button{ 
+    -webkit-appearance: none; 
+}
+.border{
+    border: 1px solid;
+}
+button[type="submit"]{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 18px;
+}
+.Test{
+    align-content: center;
+}
+h4{
+    color: #15AB82;
+}
+input{
+    margin-bottom: 10px;
+}
+.frame{
+    text-align: center;
+    background-color: #66ff66;
+    padding: 10px 0px 10px 0px;
+}
